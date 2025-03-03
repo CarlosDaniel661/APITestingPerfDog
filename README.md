@@ -1,9 +1,9 @@
 APITesting PerfDog
 
-Este repositorio contiene la colección de Postman y las evidencias de las pruebas realizadas para la API de Petstore.
+Este repositorio contiene la colección de Postman y las evidencias de las pruebas realizadas para la API de PerfDog.
 
 ## Contenido
-- **Colección de Postman**: `API-Test-Collection.json`
+- **Colección de Postman**: `API Test PerfDog.postman_collection.json`
 - **Evidencias**: Capturas de pantalla de cada solicitud y test.
 
 ## Instrucciones
@@ -14,17 +14,17 @@ Este repositorio contiene la colección de Postman y las evidencias de las prueb
 ## Estructura del repositorio
 API TESTING PERF DOG/
 ├──Postman Colection/
-│ ├── API Test PerfDog.postman_collection.json # Colección exportada de Postman
+│    ├── API Test PerfDog.postman_collection.json # Colección exportada de Postman
 ├── Evidencias/ # Carpeta con capturas de pantalla
-│ ├──Solicitudes/
-│    ├── Crear usuario.png
-│    ├── LoginOk.png
-│    ├── Logout.png
-│    ├── Consultar Datos.png
-│    └── ...
-│ ├──Tests/
-│    ├── TestCrearUsuario.png
-│    ├── TestLogin.png
-│    ├── TestLogout.png
-│    └── ...
+│    ├──Solicitudes/
+│    │    ├── Crear usuario.png
+│    │    ├── LoginOk.png
+│    │    ├── Logout.png
+│    │    ├── Consultar Datos.png
+│    │    └── ...
+│    ├──Tests/
+│    │    ├──TestCrearUsuario.png
+│    │    ├──TestLogin.png
+│    │    ├── TestLogout.png
+│    │    └── ...
 └── README.md # Archivo de descripción del proyecto
